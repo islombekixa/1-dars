@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.card{
+    width: 30%;
+    height: 300px;
+    border-radius: 30px;
+    padding: 30px;
+    background-color: lightblue;
+}
